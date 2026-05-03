@@ -47,6 +47,7 @@ The landing page was built using WordPress, Astra Theme, and Elementor with a fo
 ## Version Control
 - Git
 - GitHub
+All commits were done by uploading and editing files on github repository.
 
 # Folder Structure
 
