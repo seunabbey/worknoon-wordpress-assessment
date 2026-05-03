@@ -189,7 +189,9 @@ This enables:
 
 # Demo Video
 Demo Video Link:
-[Insert Loom or YouTube Link Here]
+(https://www.loom.com/share/60a69f881e584be79be795a1247cf2e1
+https://www.loom.com/share/5d70a3c7468441a9990009a3c6330e6e
+https://www.loom.com/share/eb36556dfd284978a484552a93a22e6c)
 
 # Author
 Developed by Oluwaseun Abiodun
