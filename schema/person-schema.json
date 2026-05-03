@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Founder Name",
+  "jobTitle": "Founder of Worknoon",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Worknoon"
+  }
+}
